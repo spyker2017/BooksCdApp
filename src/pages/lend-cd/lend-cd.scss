@@ -1,0 +1,16 @@
+page-lend-cd {
+
+    .is-lend{
+       
+        background-color: color($colors, personal-primary);
+        color: black;
+        
+    }
+
+    .is-no-lend{
+       
+        background-color: color($colors, personal-secondary);
+        color: black;
+        
+    }
+}
